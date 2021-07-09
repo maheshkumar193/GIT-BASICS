@@ -1,1 +1,33 @@
-Started learning GIT 
+Get started with GIT & GITHUB 
+
+1. Intialize git 
+
+---> git init
+
+2.Check status 
+
+--->git status 
+
+// there are 3 areas where we can store our files 
+//1.working directory 
+//2.staging area (mediator between working directory & Local respository) 
+//3.Local respository 
+//4.remote repository
+
+3.Push to Staging area
+
+---> git add chapter1.txt (to add only chapter1.txt)
+
+--->git add . (to add every thing that our currently in)
+
+4.Push to local repository 
+
+---> git commit -m "some comment preferably in present tense"
+
+5.Add to origin 
+
+--->git remote add origin "https://some link.com"
+
+6.Push to remote repository
+
+--->git push -u origin master
