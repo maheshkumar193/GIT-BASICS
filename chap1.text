@@ -8,7 +8,7 @@ Get started with GIT & GITHUB
 
 --->git status 
 
-// there are 3 areas where we can store our files 
+// there are  4 areas where we can store our files 
 //1.working directory 
 //2.staging area (mediator between working directory & Local respository) 
 //3.Local respository 
